@@ -4,10 +4,6 @@
 <h3 align="center">A passionate Java Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath-raj-naralasetti&label=Profile%20views&color=0e75b6&style=flat" alt="bharath-raj-naralasetti" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharath-raj-naralasetti" alt="bharath-raj-naralasetti" /></a> </p>
-
 - 🌱 I’m currently learning **React js, Spring, Hibernate, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://bharath-raj-naralasetti.github.io/my-portfolio/](https://bharath-raj-naralasetti.github.io/my-portfolio/)
