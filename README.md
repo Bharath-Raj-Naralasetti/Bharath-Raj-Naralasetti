@@ -4,6 +4,8 @@
 <h3 align="center">A passionate Java Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+- 🔭 I’m currently looking for Java Full Stack roles
+
 - 🌱 I’m currently learning **React js, Spring, Hibernate, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://bharath-raj-naralasetti.github.io/my-portfolio/](https://bharath-raj-naralasetti.github.io/my-portfolio/)
