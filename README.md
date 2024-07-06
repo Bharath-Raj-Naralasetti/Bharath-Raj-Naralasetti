@@ -1,9 +1,9 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Bharath Raj Naralasetti</h1>
-<h3 align="center">A passionate Java Full Stack Developer</h3>
+<h3 align="center">A passionate Java FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently looking for **Java Full Stack roles**
+- 🔭 I’m currently looking for **Java FullStack roles**
 
 - 🌱 I’m currently learning **React js, Spring, Hibernate, Flutter**
 
