@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React js, Spring, Hibernate, Flutter**
 
-- 👨‍💻 All of my projects are available at [https://bharath-raj-naralasetti.github.io/my-portfolio/](https://bharath-raj-naralasetti.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [https://bharath-raj-naralasetti.github.io/my-portfolio/](https://bharath-raj-naralasetti.github.io/portfolio-application-using-react/)
 
 - 💬 Ask me about **Java, Core Java, HTML,CSS, JAVASCRIPT, Oracle, MySQL**
 
